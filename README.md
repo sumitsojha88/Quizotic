@@ -1,6 +1,6 @@
 # quizotic
 
-A new Flutter application.
+A Flutter application for Quizzing.
 
 ## Getting Started
 
